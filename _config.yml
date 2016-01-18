@@ -1,7 +1,7 @@
 name: 'PureTropics coconut oil '
 favicon: null
-layout_spectrum: 0.8297449497040361
-typography_spectrum: 0.06139783561229706
+layout_spectrum: 0.6339421602897346
+typography_spectrum: 0.21128639206290245
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9397245990112424
-  lightness: 0.38407550379633904
-  saturation: 0.25838514929637313
-  rhythmicContrast: 0.431386882904917
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7718329287599772
+  lightness: 0.5270183021202683
+  saturation: 0.2334171668626368
+  rhythmicContrast: 0.31542794429697096
 purpose: []
