@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PureTropics coconut oil]]></title>
+        <description><![CDATA[PureTropics coconut oil]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 14:20:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f52da01-ec3a-4fc9-8dcd-75f20d6dbf2b.jpg">]]></description>
+            <link>undefined1bc50c2f-b8cb-49ba-80be-7b2839b03cad/index.html</link>
+            <guid isPermaLink="false">1bc50c2f-b8cb-49ba-80be-7b2839b03cad</guid>
+            <pubDate>Mon, 18 Jan 2016 14:20:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
